@@ -63,7 +63,7 @@
 					<programs>
 						<program>
 							<mainClass>fr.ul.miage.helloplus.App</mainClass>
-							<id>hello</id>
+							<id>app</id>
 						</program>
 					</programs>
 				</configuration>
